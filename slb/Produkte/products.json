@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "brot1",
+      "category": "Brot",
+      "name": "Landbrot",
+      "description": "Kräftiges Mischbrot mit knuspriger Kruste.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/brot.jpg",
+      "price": 4.20,
+      "appPrice": null,
+      "recommended": true,
+      "isNew": false,
+      "active": true
+    },
+    {
+      "id": "brot2",
+      "category": "Brot",
+      "name": "Bauernbrot",
+      "description": "Traditionell gebackenes Bauernbrot.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/brot.jpg",
+      "price": 4.80,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": false,
+      "active": true
+    },
+    {
+      "id": "brot3",
+      "category": "Brot",
+      "name": "Roggenbrot",
+      "description": "Herzhaftes Roggenbrot mit Sauerteig.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/brot.jpg",
+      "price": 3.90,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": false,
+      "active": true
+    },
+    {
+      "id": "broetchen1",
+      "category": "Brötchen",
+      "name": "Unsere Schleizer",
+      "description": "Außen knusprig, innen locker.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/broetchen.jpg",
+      "price": 0.65,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
+    },
+    {
+      "id": "broetchen2",
+      "category": "Brötchen",
+      "name": "Dinkelvollkornbrötchen",
+      "description": "Mit wertvollen Saaten und Körnern.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/broetchen.jpg",
+      "price": 0.95,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": false,
+      "active": true
+    },
+    {
+      "id": "kuchen1",
+      "category": "Kuchen",
+      "name": "Apfelkuchen",
+      "description": "Saftiger Apfelkuchen.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/kuchen.jpg",
+      "price": 2.90,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": false,
+      "active": true
+    },
+    {
+      "id": "baiser_original",
+      "category": "Torten",
+      "name": "Original Schleizer Baisertorte",
+      "description": "Das Original! Unsere Schleizer Baisertorte.",
+      "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/baiser.jpg",
+      "price": 34.50,
+      "appPrice": 33.50,
+      "recommended": true,
+      "isNew": false,
+      "active": true
+    },
+{
+  "id": "test1",
+  "category": "Testkategorie",
+  "name": "Testprodukt",
+  "description": "Dieses Produkt wurde dynamisch vom Server geladen.",
+  "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/produkte/brot.jpg",
+  "price": 1.99,
+  "appPrice": null,
+  "recommended": false,
+  "isNew": true,
+  "active": true
+}
+
+
+
+  ]
+}
