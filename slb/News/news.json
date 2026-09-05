@@ -5,7 +5,7 @@
     "active": true,
     "published_at": "2026-07-17",
     "title": "Willkommen in der SLB Shop App",
-    "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/news/willkommen.jpg",
+    "image": null,
     "text": "Willkommen in der neuen SLB Shop App. Hier informieren wir dich künftig über Aktionen, neue Produkte und wichtige Hinweise rund um unsere Bäckerei."
   },
   {
@@ -14,7 +14,7 @@
     "active": true,
     "published_at": "2026-07-17",
     "title": "Die SLB-Shop APP",
-    "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/news/willkommen.jpg",
+    "image": null,
     "text": "Willkommen in der neuen SLB Shop App. "
   },
   {
@@ -23,7 +23,7 @@
     "active": true,
     "published_at": "2026-08-24",
     "title": "Neue Produkte im Shop",
-    "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/news/neue-produkte.jpg",
+    "image": null,
     "text": "Entdecke unsere neuen Produkte im SLB Shop. Schau regelmäßig vorbei und verpasse keine Neuheiten aus unserer Bäckerei."
   },
   {
@@ -32,7 +32,7 @@
     "active": true,
     "published_at": "2026-08-24",
     "title": "Wichtiger Hinweis zur Abholung",
-    "image": "https://desktop-m68jgkv.tail7eef83.ts.net/slb/news/abholung.jpg",
+    "image": null,
     "text": "Bitte beachte bei deiner nächsten Bestellung die aktuellen Hinweise zur Abholung. Weitere Informationen findest du direkt in deiner Bestellung."
   }
 ]
