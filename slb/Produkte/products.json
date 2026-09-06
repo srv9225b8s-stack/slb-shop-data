@@ -6,7 +6,7 @@
       "name": "Landbrot",
       "description": "Kräftiges Mischbrot mit knuspriger Kruste.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
-      "price": 4.20,
+      "price": 4.2,
       "appPrice": null,
       "recommended": true,
       "isNew": false,
@@ -18,7 +18,7 @@
       "name": "Bauernbrot",
       "description": "Traditionell gebackenes Bauernbrot.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
-      "price": 4.80,
+      "price": 4.8,
       "appPrice": null,
       "recommended": false,
       "isNew": false,
@@ -30,7 +30,7 @@
       "name": "Roggenbrot",
       "description": "Herzhaftes Roggenbrot mit Sauerteig.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
-      "price": 3.90,
+      "price": 3.9,
       "appPrice": null,
       "recommended": false,
       "isNew": false,
@@ -66,7 +66,7 @@
       "name": "Apfelkuchen",
       "description": "Saftiger Apfelkuchen.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/kuchen.jpg",
-      "price": 2.90,
+      "price": 2.9,
       "appPrice": null,
       "recommended": false,
       "isNew": false,
@@ -78,26 +78,35 @@
       "name": "Original Schleizer Baisertorte",
       "description": "Das Original! Unsere Schleizer Baisertorte.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/baiser.jpg",
-      "price": 34.50,
-      "appPrice": 33.50,
+      "price": 34.5,
+      "appPrice": 33.5,
       "recommended": true,
       "isNew": false,
       "active": true
     },
-{
-  "id": "test1",
-  "category": "Testkategorie",
-  "name": "Testprodukt",
-  "description": "Dieses Produkt wurde dynamisch vom Server geladen.",
-  "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
-  "price": 1.99,
-  "appPrice": null,
-  "recommended": false,
-  "isNew": true,
-  "active": true
-}
-
-
-
+    {
+      "id": "test1",
+      "category": "Testkategorie",
+      "name": "Testprodukt",
+      "description": "Dieses Produkt wurde dynamisch vom Server geladen.",
+      "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
+      "price": 1.99,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
+    },
+    {
+      "id": "brot4",
+      "category": "Brot",
+      "name": "Testbrot",
+      "description": "brot zum testen",
+      "image": "//",
+      "price": 1000,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
+    }
   ]
 }
