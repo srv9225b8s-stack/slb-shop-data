@@ -95,6 +95,18 @@
       "recommended": false,
       "isNew": true,
       "active": true
+    },
+    {
+      "id": "brot4",
+      "category": "Brot",
+      "name": "Test",
+      "description": "testing brot",
+      "image": "",
+      "price": 100000,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
     }
   ]
 }
