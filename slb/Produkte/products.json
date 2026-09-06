@@ -95,18 +95,6 @@
       "recommended": false,
       "isNew": true,
       "active": true
-    },
-    {
-      "id": "brot4",
-      "category": "Brot",
-      "name": "Testbrot",
-      "description": "brot zum testen",
-      "image": "//",
-      "price": 1000,
-      "appPrice": null,
-      "recommended": false,
-      "isNew": true,
-      "active": true
     }
   ]
 }
