@@ -95,6 +95,18 @@
       "recommended": false,
       "isNew": true,
       "active": true
+    },
+    {
+      "id": "brot4",
+      "category": "Brot",
+      "name": "Testkandidat",
+      "description": "Toll",
+      "image": "",
+      "price": 1000,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
     }
   ]
 }
