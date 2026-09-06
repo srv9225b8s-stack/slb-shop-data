@@ -95,18 +95,6 @@
       "recommended": false,
       "isNew": true,
       "active": true
-    },
-    {
-      "id": "snacks1",
-      "category": "Snacks",
-      "name": "Honig senf Brot",
-      "description": "honig brot mit senf mit",
-      "image": "",
-      "price": 50000,
-      "appPrice": null,
-      "recommended": false,
-      "isNew": true,
-      "active": true
     }
   ]
 }
