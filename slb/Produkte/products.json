@@ -95,18 +95,6 @@
       "recommended": false,
       "isNew": true,
       "active": true
-    },
-    {
-      "id": "brot5",
-      "category": "Brot",
-      "name": "testing",
-      "description": "abc",
-      "image": "",
-      "price": 1000,
-      "appPrice": null,
-      "recommended": false,
-      "isNew": true,
-      "active": true
     }
   ]
 }
