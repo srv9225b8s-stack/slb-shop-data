@@ -34,5 +34,14 @@
     "title": "Wichtiger Hinweis zur Abholung",
     "image": null,
     "text": "Bitte beachte bei deiner nächsten Bestellung die aktuellen Hinweise zur Abholung. Weitere Informationen findest du direkt in deiner Bestellung."
+  },
+  {
+    "id": 5,
+    "priority": "important",
+    "active": true,
+    "published_at": "2026-09-06",
+    "title": "Ellena",
+    "image": null,
+    "text": "Hallo Ellena"
   }
 ]
