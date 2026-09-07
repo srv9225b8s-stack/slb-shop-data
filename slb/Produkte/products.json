@@ -95,6 +95,18 @@
       "recommended": false,
       "isNew": true,
       "active": true
+    },
+    {
+      "id": "snacks1",
+      "category": "Snacks",
+      "name": "testsnack",
+      "description": "test",
+      "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/snacks1.png",
+      "price": 1000,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
     }
   ]
 }
