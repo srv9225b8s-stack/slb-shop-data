@@ -95,6 +95,18 @@
       "recommended": false,
       "isNew": true,
       "active": true
+    },
+    {
+      "id": "abc1",
+      "category": "abc",
+      "name": "abc",
+      "description": "abc",
+      "image": "",
+      "price": 1234,
+      "appPrice": null,
+      "recommended": false,
+      "isNew": true,
+      "active": true
     }
   ]
 }
