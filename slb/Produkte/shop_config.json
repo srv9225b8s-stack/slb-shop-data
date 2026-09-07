@@ -1,5 +1,9 @@
 {
   "logo": "log60.png",
   "logoHeight": 150,
-  "categories": {}
+  "categories": {
+    "abc": {
+      "image": ""
+    }
+  }
 }
