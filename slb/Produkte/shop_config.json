@@ -4,6 +4,9 @@
   "categories": {
     "Snacks": {
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/Kategorien/snacks.png"
+    },
+    "abc": {
+      "image": ""
     }
   }
 }
