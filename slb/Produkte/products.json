@@ -8,7 +8,7 @@
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
       "price": 4.2,
       "appPrice": null,
-      "recommended": true,
+      "recommended": false,
       "isNew": false,
       "active": true
     },
