@@ -10,7 +10,18 @@
       "appPrice": null,
       "recommended": false,
       "isNew": false,
-      "active": true
+      "active": true,
+      "bestelltage": {
+        "weekdays": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "blockedFrom": null,
+        "blockedUntil": null
+      }
     },
     {
       "id": "brot2",
