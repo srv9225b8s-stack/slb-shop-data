@@ -36,15 +36,6 @@
     "text": "Bitte beachte bei deiner nächsten Bestellung die aktuellen Hinweise zur Abholung. Weitere Informationen findest du direkt in deiner Bestellung."
   },
   {
-    "id": 5,
-    "priority": "normal",
-    "active": true,
-    "published_at": "2026-09-19",
-    "title": "news die 3.",
-    "image": null,
-    "text": "das ist der test"
-  },
-  {
     "id": 6,
     "priority": "normal",
     "active": true,
