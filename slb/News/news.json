@@ -34,5 +34,15 @@
     "title": "Wichtiger Hinweis zur Abholung",
     "image": null,
     "text": "Bitte beachte bei deiner nächsten Bestellung die aktuellen Hinweise zur Abholung. Weitere Informationen findest du direkt in deiner Bestellung."
+  },
+  {
+    "id": 5,
+    "priority": "normal",
+    "active": true,
+    "published_at": "2026-09-20",
+    "title": "testnews mit verschiebbarem bild",
+    "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/News/bildschirmfoto-2026-09-20-um-10-19-48-png.png",
+    "image_position": 100,
+    "text": "wir testen"
   }
 ]
