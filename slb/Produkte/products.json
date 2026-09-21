@@ -87,6 +87,7 @@
       "price": 2.9,
       "appPrice": null,
       "recommended": true,
+      "recommendationOfDay": true,
       "isNew": false,
       "active": true,
       "bestelltage": null
