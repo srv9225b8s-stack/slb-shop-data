@@ -99,9 +99,10 @@
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/baiser.jpg",
       "price": 34.5,
       "appPrice": 33.5,
-      "recommended": true,
+      "recommended": false,
       "isNew": false,
-      "active": true
+      "active": true,
+      "bestelltage": null
     },
     {
       "id": "test1",
