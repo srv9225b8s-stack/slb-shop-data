@@ -75,8 +75,10 @@
       "price": 0.95,
       "appPrice": null,
       "recommended": false,
+      "recommendationOfDay": true,
       "isNew": false,
-      "active": true
+      "active": true,
+      "bestelltage": null
     },
     {
       "id": "kuchen1",
@@ -87,7 +89,7 @@
       "price": 2.9,
       "appPrice": null,
       "recommended": true,
-      "recommendationOfDay": true,
+      "recommendationOfDay": false,
       "isNew": false,
       "active": true,
       "bestelltage": null
