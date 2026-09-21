@@ -86,9 +86,10 @@
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/kuchen.jpg",
       "price": 2.9,
       "appPrice": null,
-      "recommended": false,
+      "recommended": true,
       "isNew": false,
-      "active": true
+      "active": true,
+      "bestelltage": null
     },
     {
       "id": "baiser_original",
