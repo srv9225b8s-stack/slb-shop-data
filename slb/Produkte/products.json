@@ -27,10 +27,12 @@
       "description": "Traditionell gebackenes Bauernbrot.",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/brot.jpg",
       "price": 4.8,
-      "appPrice": null,
+      "appPrice": 4,
       "recommended": false,
+      "recommendationOfDay": false,
       "isNew": false,
-      "active": true
+      "active": true,
+      "bestelltage": null
     },
     {
       "id": "brot3",
