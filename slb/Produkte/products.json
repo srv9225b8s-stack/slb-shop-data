@@ -66,8 +66,10 @@
       "price": 0.65,
       "appPrice": null,
       "recommended": false,
+      "recommendationOfDay": false,
       "isNew": true,
-      "active": true
+      "active": false,
+      "bestelltage": null
     },
     {
       "id": "broetchen2",
