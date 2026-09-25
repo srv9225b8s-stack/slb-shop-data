@@ -123,26 +123,6 @@
       "recommended": false,
       "isNew": true,
       "active": true
-    },
-    {
-      "id": "broetchen3",
-      "category": "Brötchen",
-      "name": "Schinkenbeißer",
-      "description": "lecker",
-      "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/broetchen3.jpg",
-      "price": 3,
-      "appPrice": null,
-      "recommended": false,
-      "recommendationOfDay": false,
-      "isNew": false,
-      "active": true,
-      "bestelltage": {
-        "weekdays": [
-          1
-        ],
-        "blockedFrom": null,
-        "blockedUntil": null
-      }
     }
   ]
 }
