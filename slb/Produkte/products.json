@@ -68,7 +68,7 @@
       "recommended": false,
       "recommendationOfDay": false,
       "isNew": true,
-      "active": false,
+      "active": true,
       "bestelltage": null
     },
     {
