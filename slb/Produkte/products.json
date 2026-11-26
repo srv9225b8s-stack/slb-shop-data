@@ -123,6 +123,24 @@
       "recommended": false,
       "isNew": true,
       "active": true
+    },
+    {
+      "id": "broetchen3",
+      "category": "Brötchen",
+      "name": "Baguettebrötchen",
+      "description": "",
+      "image": "",
+      "price": 0.55,
+      "appPrice": null,
+      "source": "bbn",
+      "bbnArticleNumber": "1060",
+      "bbnName": "Baguettebrötchen",
+      "bbnGrossPrice": 0.55,
+      "recommended": false,
+      "recommendationOfDay": false,
+      "isNew": false,
+      "active": true,
+      "bestelltage": null
     }
   ]
 }
