@@ -123,24 +123,6 @@
       "recommended": false,
       "isNew": true,
       "active": true
-    },
-    {
-      "id": "bbn1",
-      "category": "BBN",
-      "name": "DDR-Semmel",
-      "description": "",
-      "image": "",
-      "price": 0.9,
-      "appPrice": null,
-      "source": "bbn",
-      "bbnArticleNumber": "1002",
-      "bbnName": "DDR-Semmel",
-      "bbnGrossPrice": 0.9,
-      "recommended": false,
-      "recommendationOfDay": false,
-      "isNew": false,
-      "active": true,
-      "bestelltage": null
     }
   ]
 }
