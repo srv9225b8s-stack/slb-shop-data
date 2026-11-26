@@ -149,7 +149,7 @@
       "description": "",
       "image": "https://raw.githubusercontent.com/srv9225b8s-stack/slb-shop-data/main/slb/Produkte/kuchen2.jpg",
       "price": 1.9,
-      "appPrice": null,
+      "appPrice": 1.7,
       "source": "bbn",
       "bbnArticleNumber": "3525",
       "bbnName": "Qua Mo Ki",
