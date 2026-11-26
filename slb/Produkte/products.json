@@ -141,6 +141,24 @@
       "isNew": false,
       "active": true,
       "bestelltage": null
+    },
+    {
+      "id": "kuchen2",
+      "category": "Kuchen",
+      "name": "Qua Mo Ki",
+      "description": "",
+      "image": "",
+      "price": 1.9,
+      "appPrice": null,
+      "source": "bbn",
+      "bbnArticleNumber": "3525",
+      "bbnName": "Qua Mo Ki",
+      "bbnGrossPrice": 1.9,
+      "recommended": false,
+      "recommendationOfDay": false,
+      "isNew": false,
+      "active": true,
+      "bestelltage": null
     }
   ]
 }
