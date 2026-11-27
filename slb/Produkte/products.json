@@ -177,6 +177,24 @@
       "isNew": false,
       "active": true,
       "bestelltage": null
+    },
+    {
+      "id": "testkategorie1",
+      "category": "Testkategorie",
+      "name": "Amerikaner alt !!!",
+      "description": "",
+      "image": "",
+      "price": 0.7,
+      "appPrice": null,
+      "source": "bbn",
+      "bbnArticleNumber": "3790",
+      "bbnName": "Amerikaner alt !!!",
+      "bbnGrossPrice": 0.7,
+      "recommended": false,
+      "recommendationOfDay": false,
+      "isNew": false,
+      "active": true,
+      "bestelltage": null
     }
   ]
 }
