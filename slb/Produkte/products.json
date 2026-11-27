@@ -159,6 +159,24 @@
       "isNew": false,
       "active": true,
       "bestelltage": null
+    },
+    {
+      "id": "broetchen4",
+      "category": "Brötchen",
+      "name": "Feiertag Semmel",
+      "description": "",
+      "image": "",
+      "price": 0.9,
+      "appPrice": null,
+      "source": "bbn",
+      "bbnArticleNumber": "1001",
+      "bbnName": "Feiertag Semmel",
+      "bbnGrossPrice": 0.9,
+      "recommended": false,
+      "recommendationOfDay": false,
+      "isNew": false,
+      "active": true,
+      "bestelltage": null
     }
   ]
 }
